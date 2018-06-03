@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\OnTime\bin\Debug\OnTime.exe.config
+C:\Users\marti\source\repos\Exam\OnTime\bin\Debug\OnTime.exe
+C:\Users\marti\source\repos\Exam\OnTime\bin\Debug\OnTime.pdb
+C:\Users\marti\source\repos\Exam\OnTime\obj\Debug\OnTime.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\OnTime\obj\Debug\OnTime.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\OnTime\obj\Debug\OnTime.exe
+C:\Users\marti\source\repos\Exam\OnTime\obj\Debug\OnTime.pdb

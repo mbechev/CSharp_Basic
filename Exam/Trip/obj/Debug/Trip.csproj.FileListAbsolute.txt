@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\Trip\bin\Debug\Trip.exe.config
+C:\Users\marti\source\repos\Exam\Trip\bin\Debug\Trip.exe
+C:\Users\marti\source\repos\Exam\Trip\bin\Debug\Trip.pdb
+C:\Users\marti\source\repos\Exam\Trip\obj\Debug\Trip.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\Trip\obj\Debug\Trip.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Trip\obj\Debug\Trip.exe
+C:\Users\marti\source\repos\Exam\Trip\obj\Debug\Trip.pdb

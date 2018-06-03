@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForInForLoops\Prime\bin\Debug\Prime.exe.config
+C:\Users\marti\source\repos\ForInForLoops\Prime\bin\Debug\Prime.exe
+C:\Users\marti\source\repos\ForInForLoops\Prime\bin\Debug\Prime.pdb
+C:\Users\marti\source\repos\ForInForLoops\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForInForLoops\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\Prime\obj\Debug\Prime.exe
+C:\Users\marti\source\repos\ForInForLoops\Prime\obj\Debug\Prime.pdb

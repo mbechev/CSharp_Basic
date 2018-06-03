@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+C:\Users\marti\source\repos\ForInForLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForLoops\EqualPears\bin\Debug\EqualPears.exe.config
+C:\Users\marti\source\repos\ForLoops\EqualPears\bin\Debug\EqualPears.exe
+C:\Users\marti\source\repos\ForLoops\EqualPears\bin\Debug\EqualPears.pdb
+C:\Users\marti\source\repos\ForLoops\EqualPears\obj\Debug\EqualPears.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForLoops\EqualPears\obj\Debug\EqualPears.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForLoops\EqualPears\obj\Debug\EqualPears.exe
+C:\Users\marti\source\repos\ForLoops\EqualPears\obj\Debug\EqualPears.pdb

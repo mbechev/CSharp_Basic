@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Exam\Airplane\bin\Debug\Airplane.exe.config
+C:\Users\marti\source\repos\Exam\Airplane\bin\Debug\Airplane.exe
+C:\Users\marti\source\repos\Exam\Airplane\bin\Debug\Airplane.pdb
+C:\Users\marti\source\repos\Exam\Airplane\obj\Debug\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Airplane\obj\Debug\Airplane.exe
+C:\Users\marti\source\repos\Exam\Airplane\obj\Debug\Airplane.pdb

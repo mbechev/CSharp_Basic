@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\Rate\bin\Debug\Rate.exe.config
+C:\Users\marti\source\repos\Exam\Rate\bin\Debug\Rate.exe
+C:\Users\marti\source\repos\Exam\Rate\bin\Debug\Rate.pdb
+C:\Users\marti\source\repos\Exam\Rate\obj\Debug\Rate.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\Rate\obj\Debug\Rate.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Rate\obj\Debug\Rate.exe
+C:\Users\marti\source\repos\Exam\Rate\obj\Debug\Rate.pdb

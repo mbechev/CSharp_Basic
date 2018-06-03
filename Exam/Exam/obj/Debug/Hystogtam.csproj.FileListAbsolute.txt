@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\marti\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\marti\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\marti\source\repos\Exam\Exam\obj\Debug\Hystogtam.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\marti\source\repos\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\marti\source\repos\Exam\Exam\obj\Debug\Hystogtam.csprojResolveAssemblyReference.cache

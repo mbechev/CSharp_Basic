@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\SandBox\bin\Debug\SandBox.exe.config
+C:\Users\marti\source\repos\Exam\SandBox\bin\Debug\SandBox.exe
+C:\Users\marti\source\repos\Exam\SandBox\bin\Debug\SandBox.pdb
+C:\Users\marti\source\repos\Exam\SandBox\obj\Debug\SandBox.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\SandBox\obj\Debug\SandBox.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\SandBox\obj\Debug\SandBox.exe
+C:\Users\marti\source\repos\Exam\SandBox\obj\Debug\SandBox.pdb

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\MidjetPresents\bin\Debug\MidjetPresents.exe.config
+C:\Users\marti\source\repos\Exam\MidjetPresents\bin\Debug\MidjetPresents.exe
+C:\Users\marti\source\repos\Exam\MidjetPresents\bin\Debug\MidjetPresents.pdb
+C:\Users\marti\source\repos\Exam\MidjetPresents\obj\Debug\MidjetPresents.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\MidjetPresents\obj\Debug\MidjetPresents.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\MidjetPresents\obj\Debug\MidjetPresents.exe
+C:\Users\marti\source\repos\Exam\MidjetPresents\obj\Debug\MidjetPresents.pdb

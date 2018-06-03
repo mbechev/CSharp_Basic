@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\HelloSoftUni\TriaggleOf55Stars\obj\Debug\TriaggleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\HelloSoftUni\TriaggleOf55Stars\bin\Debug\TriaggleOf55Stars.exe.config
+C:\Users\marti\source\repos\HelloSoftUni\TriaggleOf55Stars\bin\Debug\TriaggleOf55Stars.exe
+C:\Users\marti\source\repos\HelloSoftUni\TriaggleOf55Stars\bin\Debug\TriaggleOf55Stars.pdb
+C:\Users\marti\source\repos\HelloSoftUni\TriaggleOf55Stars\obj\Debug\TriaggleOf55Stars.exe
+C:\Users\marti\source\repos\HelloSoftUni\TriaggleOf55Stars\obj\Debug\TriaggleOf55Stars.pdb

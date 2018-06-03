@@ -1,0 +1,7 @@
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\bin\Debug\MaxNumbers.exe.config
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\bin\Debug\MaxNumbers.exe
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\bin\Debug\MaxNumbers.pdb
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\obj\Debug\MaxNumbers.csproj.CoreCompileInputs.cache
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\obj\Debug\MaxNumbers.exe
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\obj\Debug\MaxNumbers.pdb
+c:\Users\marti\source\repos\ForLoops\MaxNumbers\obj\Debug\MaxNumbers.csprojResolveAssemblyReference.cache

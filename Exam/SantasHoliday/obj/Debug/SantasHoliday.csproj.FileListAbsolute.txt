@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\SantasHoliday\bin\Debug\SantasHoliday.exe.config
+C:\Users\marti\source\repos\Exam\SantasHoliday\bin\Debug\SantasHoliday.exe
+C:\Users\marti\source\repos\Exam\SantasHoliday\bin\Debug\SantasHoliday.pdb
+C:\Users\marti\source\repos\Exam\SantasHoliday\obj\Debug\SantasHoliday.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\SantasHoliday\obj\Debug\SantasHoliday.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\SantasHoliday\obj\Debug\SantasHoliday.exe
+C:\Users\marti\source\repos\Exam\SantasHoliday\obj\Debug\SantasHoliday.pdb

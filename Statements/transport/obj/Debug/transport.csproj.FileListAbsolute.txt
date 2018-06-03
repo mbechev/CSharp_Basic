@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Statements\transport\bin\Debug\transport.exe.config
+C:\Users\marti\source\repos\Statements\transport\bin\Debug\transport.exe
+C:\Users\marti\source\repos\Statements\transport\bin\Debug\transport.pdb
+C:\Users\marti\source\repos\Statements\transport\obj\Debug\transport.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Statements\transport\obj\Debug\transport.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Statements\transport\obj\Debug\transport.exe
+C:\Users\marti\source\repos\Statements\transport\obj\Debug\transport.pdb

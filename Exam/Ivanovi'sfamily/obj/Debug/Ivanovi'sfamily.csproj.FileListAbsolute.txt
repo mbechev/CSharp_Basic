@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\bin\Debug\Ivanovi'sfamily.exe.config
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\bin\Debug\Ivanovi'sfamily.exe
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\bin\Debug\Ivanovi'sfamily.pdb
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\obj\Debug\Ivanovi'sfamily.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\obj\Debug\Ivanovi'sfamily.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\obj\Debug\Ivanovi'sfamily.exe
+C:\Users\marti\source\repos\Exam\Ivanovi'sfamily\obj\Debug\Ivanovi'sfamily.pdb

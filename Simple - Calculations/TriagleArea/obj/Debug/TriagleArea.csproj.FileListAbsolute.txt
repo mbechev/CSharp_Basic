@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Simple - Calculations\TriagleArea\bin\Debug\TriagleArea.exe.config
+C:\Users\marti\source\repos\Simple - Calculations\TriagleArea\bin\Debug\TriagleArea.exe
+C:\Users\marti\source\repos\Simple - Calculations\TriagleArea\bin\Debug\TriagleArea.pdb
+C:\Users\marti\source\repos\Simple - Calculations\TriagleArea\obj\Debug\TriagleArea.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Simple - Calculations\TriagleArea\obj\Debug\TriagleArea.exe
+C:\Users\marti\source\repos\Simple - Calculations\TriagleArea\obj\Debug\TriagleArea.pdb

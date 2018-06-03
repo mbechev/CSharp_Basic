@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\ForInForLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+C:\Users\marti\source\repos\ForInForLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+C:\Users\marti\source\repos\ForInForLoops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+C:\Users\marti\source\repos\ForInForLoops\PowersOfTwo\obj\Debug\PowersOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+C:\Users\marti\source\repos\ForInForLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

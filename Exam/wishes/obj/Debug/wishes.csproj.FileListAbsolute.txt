@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\wishes\bin\Debug\wishes.exe.config
+C:\Users\marti\source\repos\Exam\wishes\bin\Debug\wishes.exe
+C:\Users\marti\source\repos\Exam\wishes\bin\Debug\wishes.pdb
+C:\Users\marti\source\repos\Exam\wishes\obj\Debug\wishes.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\wishes\obj\Debug\wishes.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\wishes\obj\Debug\wishes.exe
+C:\Users\marti\source\repos\Exam\wishes\obj\Debug\wishes.pdb

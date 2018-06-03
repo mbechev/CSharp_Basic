@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\bin\Debug\numberNtoZero.exe.config
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\bin\Debug\numberNtoZero.exe
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\bin\Debug\numberNtoZero.pdb
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\obj\Debug\numberNtoZero.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\obj\Debug\numberNtoZero.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\obj\Debug\numberNtoZero.exe
+C:\Users\marti\source\repos\ForInForLoops\numberNtoZero\obj\Debug\numberNtoZero.pdb

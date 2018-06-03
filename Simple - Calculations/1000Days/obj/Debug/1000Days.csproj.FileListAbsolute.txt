@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\bin\Debug\1000Days.exe.config
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\bin\Debug\1000Days.exe
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\bin\Debug\1000Days.pdb
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\obj\Debug\1000Days.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\obj\Debug\1000Days.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\obj\Debug\1000Days.exe
+C:\Users\marti\source\repos\Simple - Calculations\1000Days\obj\Debug\1000Days.pdb

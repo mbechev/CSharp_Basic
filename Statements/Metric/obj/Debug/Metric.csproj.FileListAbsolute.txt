@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Statements\Metric\bin\Debug\Metric.exe.config
+C:\Users\marti\source\repos\Statements\Metric\bin\Debug\Metric.exe
+C:\Users\marti\source\repos\Statements\Metric\bin\Debug\Metric.pdb
+C:\Users\marti\source\repos\Statements\Metric\obj\Debug\Metric.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Statements\Metric\obj\Debug\Metric.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Statements\Metric\obj\Debug\Metric.exe
+C:\Users\marti\source\repos\Statements\Metric\obj\Debug\Metric.pdb

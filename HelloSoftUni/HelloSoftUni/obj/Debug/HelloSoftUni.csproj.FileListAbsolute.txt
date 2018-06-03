@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+C:\Users\marti\source\repos\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

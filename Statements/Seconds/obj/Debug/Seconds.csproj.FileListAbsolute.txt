@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Statements\Seconds\bin\Debug\Seconds.exe.config
+C:\Users\marti\source\repos\Statements\Seconds\bin\Debug\Seconds.exe
+C:\Users\marti\source\repos\Statements\Seconds\bin\Debug\Seconds.pdb
+C:\Users\marti\source\repos\Statements\Seconds\obj\Debug\Seconds.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Statements\Seconds\obj\Debug\Seconds.exe
+C:\Users\marti\source\repos\Statements\Seconds\obj\Debug\Seconds.pdb

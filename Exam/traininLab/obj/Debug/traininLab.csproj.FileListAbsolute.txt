@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\traininLab\bin\Debug\traininLab.exe.config
+C:\Users\marti\source\repos\Exam\traininLab\bin\Debug\traininLab.exe
+C:\Users\marti\source\repos\Exam\traininLab\bin\Debug\traininLab.pdb
+C:\Users\marti\source\repos\Exam\traininLab\obj\Debug\traininLab.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\traininLab\obj\Debug\traininLab.exe
+C:\Users\marti\source\repos\Exam\traininLab\obj\Debug\traininLab.pdb
+C:\Users\marti\source\repos\Exam\traininLab\obj\Debug\traininLab.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\bin\Debug\Inch-to-Centimeters.exe.config
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\bin\Debug\Inch-to-Centimeters.exe
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\bin\Debug\Inch-to-Centimeters.pdb
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\obj\Debug\Inch-to-Centimeters.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\obj\Debug\Inch-to-Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\obj\Debug\Inch-to-Centimeters.exe
+C:\Users\marti\source\repos\Simple - Calculations\Inch-to-Centimeters\obj\Debug\Inch-to-Centimeters.pdb

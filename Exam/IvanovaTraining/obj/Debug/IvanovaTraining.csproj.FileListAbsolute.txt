@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\IvanovaTraining\bin\Debug\IvanovaTraining.exe.config
+C:\Users\marti\source\repos\Exam\IvanovaTraining\bin\Debug\IvanovaTraining.exe
+C:\Users\marti\source\repos\Exam\IvanovaTraining\bin\Debug\IvanovaTraining.pdb
+C:\Users\marti\source\repos\Exam\IvanovaTraining\obj\Debug\IvanovaTraining.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\IvanovaTraining\obj\Debug\IvanovaTraining.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\IvanovaTraining\obj\Debug\IvanovaTraining.exe
+C:\Users\marti\source\repos\Exam\IvanovaTraining\obj\Debug\IvanovaTraining.pdb

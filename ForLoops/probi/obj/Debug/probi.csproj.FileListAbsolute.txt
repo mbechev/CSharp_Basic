@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForLoops\probi\bin\Debug\probi.exe.config
+C:\Users\marti\source\repos\ForLoops\probi\bin\Debug\probi.exe
+C:\Users\marti\source\repos\ForLoops\probi\bin\Debug\probi.pdb
+C:\Users\marti\source\repos\ForLoops\probi\obj\Debug\probi.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForLoops\probi\obj\Debug\probi.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForLoops\probi\obj\Debug\probi.exe
+C:\Users\marti\source\repos\ForLoops\probi\obj\Debug\probi.pdb

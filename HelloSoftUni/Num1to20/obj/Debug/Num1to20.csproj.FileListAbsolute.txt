@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\HelloSoftUni\Num1to20\bin\Debug\Num1to20.exe.config
+C:\Users\marti\source\repos\HelloSoftUni\Num1to20\bin\Debug\Num1to20.exe
+C:\Users\marti\source\repos\HelloSoftUni\Num1to20\bin\Debug\Num1to20.pdb
+C:\Users\marti\source\repos\HelloSoftUni\Num1to20\obj\Debug\Num1to20.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\HelloSoftUni\Num1to20\obj\Debug\Num1to20.exe
+C:\Users\marti\source\repos\HelloSoftUni\Num1to20\obj\Debug\Num1to20.pdb

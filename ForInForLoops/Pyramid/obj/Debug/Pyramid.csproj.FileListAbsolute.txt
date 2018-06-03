@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\ForInForLoops\Pyramid\bin\Debug\Pyramid.exe.config
+C:\Users\marti\source\repos\ForInForLoops\Pyramid\bin\Debug\Pyramid.exe
+C:\Users\marti\source\repos\ForInForLoops\Pyramid\bin\Debug\Pyramid.pdb
+C:\Users\marti\source\repos\ForInForLoops\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\Pyramid\obj\Debug\Pyramid.exe
+C:\Users\marti\source\repos\ForInForLoops\Pyramid\obj\Debug\Pyramid.pdb

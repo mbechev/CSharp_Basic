@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\Lilly\bin\Debug\Lilly.exe.config
+C:\Users\marti\source\repos\Exam\Lilly\bin\Debug\Lilly.exe
+C:\Users\marti\source\repos\Exam\Lilly\bin\Debug\Lilly.pdb
+C:\Users\marti\source\repos\Exam\Lilly\obj\Debug\Lilly.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\Lilly\obj\Debug\Lilly.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Lilly\obj\Debug\Lilly.exe
+C:\Users\marti\source\repos\Exam\Lilly\obj\Debug\Lilly.pdb

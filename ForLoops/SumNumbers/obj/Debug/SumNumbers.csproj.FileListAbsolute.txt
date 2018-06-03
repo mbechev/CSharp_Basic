@@ -1,0 +1,7 @@
+c:\Users\marti\source\repos\ForLoops\SumNumbers\bin\Debug\SumNumbers.exe.config
+c:\Users\marti\source\repos\ForLoops\SumNumbers\bin\Debug\SumNumbers.exe
+c:\Users\marti\source\repos\ForLoops\SumNumbers\bin\Debug\SumNumbers.pdb
+c:\Users\marti\source\repos\ForLoops\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+c:\Users\marti\source\repos\ForLoops\SumNumbers\obj\Debug\SumNumbers.exe
+c:\Users\marti\source\repos\ForLoops\SumNumbers\obj\Debug\SumNumbers.pdb
+C:\Users\marti\source\repos\ForLoops\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache

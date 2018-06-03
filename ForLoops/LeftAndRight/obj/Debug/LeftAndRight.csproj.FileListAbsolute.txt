@@ -1,0 +1,7 @@
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\bin\Debug\LeftAndRight.exe.config
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\bin\Debug\LeftAndRight.exe
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\bin\Debug\LeftAndRight.pdb
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\obj\Debug\LeftAndRight.csprojResolveAssemblyReference.cache
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\obj\Debug\LeftAndRight.csproj.CoreCompileInputs.cache
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\obj\Debug\LeftAndRight.exe
+c:\Users\marti\source\repos\ForLoops\LeftAndRight\obj\Debug\LeftAndRight.pdb

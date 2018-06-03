@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\BezOstatyk\bin\Debug\BezOstatyk.exe.config
+C:\Users\marti\source\repos\Exam\BezOstatyk\bin\Debug\BezOstatyk.exe
+C:\Users\marti\source\repos\Exam\BezOstatyk\bin\Debug\BezOstatyk.pdb
+C:\Users\marti\source\repos\Exam\BezOstatyk\obj\Debug\BezOstatyk.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\BezOstatyk\obj\Debug\BezOstatyk.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\BezOstatyk\obj\Debug\BezOstatyk.exe
+C:\Users\marti\source\repos\Exam\BezOstatyk\obj\Debug\BezOstatyk.pdb

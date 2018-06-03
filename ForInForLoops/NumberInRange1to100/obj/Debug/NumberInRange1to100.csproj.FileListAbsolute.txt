@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\ForInForLoops\NumberInRange1to100\obj\Debug\NumberInRange1to100.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\NumberInRange1to100\bin\Debug\NumberInRange1to100.exe.config
+C:\Users\marti\source\repos\ForInForLoops\NumberInRange1to100\bin\Debug\NumberInRange1to100.exe
+C:\Users\marti\source\repos\ForInForLoops\NumberInRange1to100\bin\Debug\NumberInRange1to100.pdb
+C:\Users\marti\source\repos\ForInForLoops\NumberInRange1to100\obj\Debug\NumberInRange1to100.exe
+C:\Users\marti\source\repos\ForInForLoops\NumberInRange1to100\obj\Debug\NumberInRange1to100.pdb

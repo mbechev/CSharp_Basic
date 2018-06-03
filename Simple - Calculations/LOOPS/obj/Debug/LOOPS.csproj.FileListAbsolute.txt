@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Simple - Calculations\LOOPS\bin\Debug\LOOPS.exe.config
+C:\Users\marti\source\repos\Simple - Calculations\LOOPS\bin\Debug\LOOPS.exe
+C:\Users\marti\source\repos\Simple - Calculations\LOOPS\bin\Debug\LOOPS.pdb
+C:\Users\marti\source\repos\Simple - Calculations\LOOPS\obj\Debug\LOOPS.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Simple - Calculations\LOOPS\obj\Debug\LOOPS.exe
+C:\Users\marti\source\repos\Simple - Calculations\LOOPS\obj\Debug\LOOPS.pdb

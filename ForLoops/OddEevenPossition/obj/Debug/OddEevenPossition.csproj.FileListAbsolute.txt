@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\bin\Debug\OddEevenPossition.exe.config
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\bin\Debug\OddEevenPossition.exe
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\bin\Debug\OddEevenPossition.pdb
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\obj\Debug\OddEevenPossition.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\obj\Debug\OddEevenPossition.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\obj\Debug\OddEevenPossition.exe
+C:\Users\marti\source\repos\ForLoops\OddEevenPossition\obj\Debug\OddEevenPossition.pdb

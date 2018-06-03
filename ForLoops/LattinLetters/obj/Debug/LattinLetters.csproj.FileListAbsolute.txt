@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForLoops\LattinLetters\bin\Debug\LattinLetters.exe.config
+C:\Users\marti\source\repos\ForLoops\LattinLetters\bin\Debug\LattinLetters.exe
+C:\Users\marti\source\repos\ForLoops\LattinLetters\bin\Debug\LattinLetters.pdb
+C:\Users\marti\source\repos\ForLoops\LattinLetters\obj\Debug\LattinLetters.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForLoops\LattinLetters\obj\Debug\LattinLetters.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForLoops\LattinLetters\obj\Debug\LattinLetters.exe
+C:\Users\marti\source\repos\ForLoops\LattinLetters\obj\Debug\LattinLetters.pdb

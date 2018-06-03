@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForLoops\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\marti\source\repos\ForLoops\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\marti\source\repos\ForLoops\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\marti\source\repos\ForLoops\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForLoops\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForLoops\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\marti\source\repos\ForLoops\VowelsSum\obj\Debug\VowelsSum.pdb

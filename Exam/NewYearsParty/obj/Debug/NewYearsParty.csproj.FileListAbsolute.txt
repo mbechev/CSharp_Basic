@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\NewYearsParty\bin\Debug\NewYearsParty.exe.config
+C:\Users\marti\source\repos\Exam\NewYearsParty\bin\Debug\NewYearsParty.exe
+C:\Users\marti\source\repos\Exam\NewYearsParty\bin\Debug\NewYearsParty.pdb
+C:\Users\marti\source\repos\Exam\NewYearsParty\obj\Debug\NewYearsParty.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\NewYearsParty\obj\Debug\NewYearsParty.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\NewYearsParty\obj\Debug\NewYearsParty.exe
+C:\Users\marti\source\repos\Exam\NewYearsParty\obj\Debug\NewYearsParty.pdb

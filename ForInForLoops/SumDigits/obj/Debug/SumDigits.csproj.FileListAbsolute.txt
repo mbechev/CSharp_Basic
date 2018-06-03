@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\bin\Debug\SumDigits.exe
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\bin\Debug\SumDigits.pdb
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\obj\Debug\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\obj\Debug\SumDigits.pdb
+C:\Users\marti\source\repos\ForInForLoops\SumDigits\obj\Debug\SumDigits.csprojResolveAssemblyReference.cache

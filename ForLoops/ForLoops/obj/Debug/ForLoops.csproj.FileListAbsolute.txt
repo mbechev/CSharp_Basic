@@ -1,0 +1,7 @@
+c:\users\marti\source\repos\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+c:\users\marti\source\repos\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+c:\users\marti\source\repos\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+c:\users\marti\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.csprojResolveAssemblyReference.cache
+c:\users\marti\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+c:\users\marti\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+c:\users\marti\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.pdb

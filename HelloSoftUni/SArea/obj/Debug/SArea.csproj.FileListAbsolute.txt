@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\HelloSoftUni\SArea\bin\Debug\SArea.exe.config
+C:\Users\marti\source\repos\HelloSoftUni\SArea\bin\Debug\SArea.exe
+C:\Users\marti\source\repos\HelloSoftUni\SArea\bin\Debug\SArea.pdb
+C:\Users\marti\source\repos\HelloSoftUni\SArea\obj\Debug\SArea.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\HelloSoftUni\SArea\obj\Debug\SArea.exe
+C:\Users\marti\source\repos\HelloSoftUni\SArea\obj\Debug\SArea.pdb

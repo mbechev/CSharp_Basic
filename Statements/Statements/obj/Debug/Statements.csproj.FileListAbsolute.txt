@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Statements\Statements\bin\Debug\Statements.exe.config
+C:\Users\marti\source\repos\Statements\Statements\bin\Debug\Statements.exe
+C:\Users\marti\source\repos\Statements\Statements\bin\Debug\Statements.pdb
+C:\Users\marti\source\repos\Statements\Statements\obj\Debug\Statements.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Statements\Statements\obj\Debug\Statements.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Statements\Statements\obj\Debug\Statements.exe
+C:\Users\marti\source\repos\Statements\Statements\obj\Debug\Statements.pdb

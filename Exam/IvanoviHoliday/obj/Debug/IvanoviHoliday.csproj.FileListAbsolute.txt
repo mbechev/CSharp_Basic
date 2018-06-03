@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\bin\Debug\IvanoviHoliday.exe.config
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\bin\Debug\IvanoviHoliday.exe
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\bin\Debug\IvanoviHoliday.pdb
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\obj\Debug\IvanoviHoliday.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\obj\Debug\IvanoviHoliday.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\obj\Debug\IvanoviHoliday.exe
+C:\Users\marti\source\repos\Exam\IvanoviHoliday\obj\Debug\IvanoviHoliday.pdb

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Statements\without{}\bin\Debug\without{}.exe.config
+C:\Users\marti\source\repos\Statements\without{}\bin\Debug\without{}.exe
+C:\Users\marti\source\repos\Statements\without{}\bin\Debug\without{}.pdb
+C:\Users\marti\source\repos\Statements\without{}\obj\Debug\without{}.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Statements\without{}\obj\Debug\without{}.exe
+C:\Users\marti\source\repos\Statements\without{}\obj\Debug\without{}.pdb
+C:\Users\marti\source\repos\Statements\without{}\obj\Debug\without{}.csprojResolveAssemblyReference.cache

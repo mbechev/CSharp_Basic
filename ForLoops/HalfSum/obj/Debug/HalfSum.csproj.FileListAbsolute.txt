@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\ForLoops\HalfSum\bin\Debug\HalfSum.exe.config
+C:\Users\marti\source\repos\ForLoops\HalfSum\bin\Debug\HalfSum.exe
+C:\Users\marti\source\repos\ForLoops\HalfSum\bin\Debug\HalfSum.pdb
+C:\Users\marti\source\repos\ForLoops\HalfSum\obj\Debug\HalfSum.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForLoops\HalfSum\obj\Debug\HalfSum.exe
+C:\Users\marti\source\repos\ForLoops\HalfSum\obj\Debug\HalfSum.pdb

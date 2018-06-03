@@ -1,0 +1,7 @@
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\bin\Debug\OddEvenSum.exe
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\bin\Debug\OddEvenSum.pdb
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\obj\Debug\OddEvenSum.csproj.CoreCompileInputs.cache
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\obj\Debug\OddEvenSum.exe
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\obj\Debug\OddEvenSum.pdb
+c:\Users\marti\source\repos\ForLoops\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache

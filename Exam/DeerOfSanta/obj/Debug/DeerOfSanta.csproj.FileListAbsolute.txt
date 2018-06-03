@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\DeerOfSanta\bin\Debug\DeerOfSanta.exe.config
+C:\Users\marti\source\repos\Exam\DeerOfSanta\bin\Debug\DeerOfSanta.exe
+C:\Users\marti\source\repos\Exam\DeerOfSanta\bin\Debug\DeerOfSanta.pdb
+C:\Users\marti\source\repos\Exam\DeerOfSanta\obj\Debug\DeerOfSanta.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\DeerOfSanta\obj\Debug\DeerOfSanta.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\DeerOfSanta\obj\Debug\DeerOfSanta.exe
+C:\Users\marti\source\repos\Exam\DeerOfSanta\obj\Debug\DeerOfSanta.pdb

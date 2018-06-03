@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Exam\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\marti\source\repos\Exam\Triangle\bin\Debug\Triangle.exe
+C:\Users\marti\source\repos\Exam\Triangle\bin\Debug\Triangle.pdb
+C:\Users\marti\source\repos\Exam\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Triangle\obj\Debug\Triangle.exe
+C:\Users\marti\source\repos\Exam\Triangle\obj\Debug\Triangle.pdb

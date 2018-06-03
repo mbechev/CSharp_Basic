@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\Simple - Calculations\CtoF\bin\Debug\CtoF.exe.config
+C:\Users\marti\source\repos\Simple - Calculations\CtoF\bin\Debug\CtoF.exe
+C:\Users\marti\source\repos\Simple - Calculations\CtoF\bin\Debug\CtoF.pdb
+C:\Users\marti\source\repos\Simple - Calculations\CtoF\obj\Debug\CtoF.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Simple - Calculations\CtoF\obj\Debug\CtoF.exe
+C:\Users\marti\source\repos\Simple - Calculations\CtoF\obj\Debug\CtoF.pdb

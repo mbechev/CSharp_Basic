@@ -1,0 +1,7 @@
+c:\Users\marti\source\repos\ForLoops\MinNumbers\bin\Debug\MinNumbers.exe.config
+c:\Users\marti\source\repos\ForLoops\MinNumbers\bin\Debug\MinNumbers.exe
+c:\Users\marti\source\repos\ForLoops\MinNumbers\bin\Debug\MinNumbers.pdb
+c:\Users\marti\source\repos\ForLoops\MinNumbers\obj\Debug\MinNumbers.csproj.CoreCompileInputs.cache
+c:\Users\marti\source\repos\ForLoops\MinNumbers\obj\Debug\MinNumbers.exe
+c:\Users\marti\source\repos\ForLoops\MinNumbers\obj\Debug\MinNumbers.pdb
+c:\Users\marti\source\repos\ForLoops\MinNumbers\obj\Debug\MinNumbers.csprojResolveAssemblyReference.cache

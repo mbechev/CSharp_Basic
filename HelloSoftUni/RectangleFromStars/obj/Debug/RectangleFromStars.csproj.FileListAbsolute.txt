@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\bin\Debug\RectangleFromStars.exe.config
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\bin\Debug\RectangleFromStars.exe
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\bin\Debug\RectangleFromStars.pdb
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\obj\Debug\RectangleFromStars.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\obj\Debug\RectangleFromStars.exe
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\obj\Debug\RectangleFromStars.pdb
+C:\Users\marti\source\repos\HelloSoftUni\RectangleFromStars\obj\Debug\RectangleFromStars.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Exam\Bakery\bin\Debug\Bakery.exe.config
+C:\Users\marti\source\repos\Exam\Bakery\bin\Debug\Bakery.exe
+C:\Users\marti\source\repos\Exam\Bakery\bin\Debug\Bakery.pdb
+C:\Users\marti\source\repos\Exam\Bakery\obj\Debug\Bakery.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\Exam\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Exam\Bakery\obj\Debug\Bakery.exe
+C:\Users\marti\source\repos\Exam\Bakery\obj\Debug\Bakery.pdb

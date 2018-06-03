@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\bin\Debug\USDtoBGN.pdb
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\obj\Debug\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\obj\Debug\USDtoBGN.pdb
+C:\Users\marti\source\repos\Simple - Calculations\USDtoBGN\obj\Debug\USDtoBGN.csprojResolveAssemblyReference.cache

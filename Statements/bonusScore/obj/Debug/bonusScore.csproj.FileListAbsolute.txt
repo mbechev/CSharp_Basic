@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Statements\bonusScore\bin\Debug\bonusScore.exe.config
+C:\Users\marti\source\repos\Statements\bonusScore\bin\Debug\bonusScore.exe
+C:\Users\marti\source\repos\Statements\bonusScore\bin\Debug\bonusScore.pdb
+C:\Users\marti\source\repos\Statements\bonusScore\obj\Debug\bonusScore.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Statements\bonusScore\obj\Debug\bonusScore.exe
+C:\Users\marti\source\repos\Statements\bonusScore\obj\Debug\bonusScore.pdb
+C:\Users\marti\source\repos\Statements\bonusScore\obj\Debug\bonusScore.csprojResolveAssemblyReference.cache

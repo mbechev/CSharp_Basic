@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\bin\Debug\NumerToN.exe.config
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\bin\Debug\NumerToN.exe
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\bin\Debug\NumerToN.pdb
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\obj\Debug\NumerToN.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\obj\Debug\NumerToN.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\obj\Debug\NumerToN.exe
+C:\Users\marti\source\repos\ForInForLoops\NumerToN\obj\Debug\NumerToN.pdb

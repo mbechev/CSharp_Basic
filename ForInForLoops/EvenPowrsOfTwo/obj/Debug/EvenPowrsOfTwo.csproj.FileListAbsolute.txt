@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\ForInForLoops\EvenPowrsOfTwo\bin\Debug\EvenPowrsOfTwo.exe.config
+C:\Users\marti\source\repos\ForInForLoops\EvenPowrsOfTwo\bin\Debug\EvenPowrsOfTwo.exe
+C:\Users\marti\source\repos\ForInForLoops\EvenPowrsOfTwo\bin\Debug\EvenPowrsOfTwo.pdb
+C:\Users\marti\source\repos\ForInForLoops\EvenPowrsOfTwo\obj\Debug\EvenPowrsOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ForInForLoops\EvenPowrsOfTwo\obj\Debug\EvenPowrsOfTwo.exe
+C:\Users\marti\source\repos\ForInForLoops\EvenPowrsOfTwo\obj\Debug\EvenPowrsOfTwo.pdb
