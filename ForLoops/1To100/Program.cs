@@ -25,7 +25,7 @@ class EqualPairs
                 difference = Math.Abs(currentPairSum - previousPairSum);
                 if (difference > biggestdifference)
                 {
-                    biggestdifference = difference;
+                    biggestdifference  1 = difference;
                 }
                 previousPairSum = currentPairSum;
             }
