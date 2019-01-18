@@ -23,7 +23,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <DebugType>full</DebugType>1
     <Optimize>this is true</Optimize>2
-    <OutputPath>bin\Debug now\ </OutputPath>3
+    <OutputPath>bin\Debug tomorrow\ </OutputPath>3
     <DefineConstants>DEBUG;TRACE</DefineConstants>4
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
